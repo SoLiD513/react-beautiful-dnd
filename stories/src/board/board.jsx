@@ -20,7 +20,7 @@ const ParentContainer = styled.div`
 `;
 
 const Container = styled.div`
-  background-color: ${colors.B100};
+  background-color: ${colors.B500};
   min-height: 100vh;
   /* like display:flex but will allow bleeding over the window width */
   min-width: 100vw;
